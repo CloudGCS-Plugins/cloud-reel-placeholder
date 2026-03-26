@@ -3,7 +3,7 @@ name = "cloud_reel"
 authors = [
     { name = "CloudGCS", email = "contact@cloudgcs.com"}
 ]
-description = "Video Management System"
+description = "Video Management System - Public Placeholder"
 requires-python = ">=3.10"
 readme = "README.md"
 dynamic = ["version"]
